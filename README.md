@@ -1,7 +1,14 @@
-# TransmissaoEletromagnetica
-## Transmissão  de ondas Eletromagnética 
+<div align="center">
+  <h1 align="center">
+    Transmissao de ondas Eletromagneticas
+    <br />
+    <br />
+  </h1>
+</div>
+
+
 Ondas eletromagnéticas são oscilações formadas por campos elétricos e magnéticos variáveis, que se propagam tanto no vácuo quanto em meios materiais. Elas são ondas tridimensionais e transversais que viajam na velocidade da luz, transportando exclusivamente energia. Ademais, apresentam-se na forma de ondas de rádio, micro-ondas, infravermelho, luz visível, ultravioleta, raios x e raios gama, em ordem crescente de frequência e energia."
-## O que são ondas eletromagnéticas?
+# O que são ondas eletromagnéticas?
 As ondas eletromagnéticas surgem com base na interação entre campos elétricos ou campos magnéticos variáveis. Essas se propagam no vácuo com a mesma velocidade que a luz, cerca de 300 mil quilômetros por segundo. Diferentemente das ondas mecânicas, como o som, as ondas eletromagnéticas podem propagar-se tanto em meios materiais quanto no vácuo. Por tratarem-se de fenômenos ondulatórios, elas podem sofrer reflexão, refração, absorção, difração, interferência, espalhamento e polarização.
 
 As ondas eletromagnéticas foram previstas e teorizadas pelo físico e matemático escocês James Clerk Maxwell, que unificou as equações da eletricidade e do magnetismo já existentes (equações de Faraday, Ampére e Gauss) em equações de onda.
@@ -9,9 +16,10 @@ As ondas eletromagnéticas foram previstas e teorizadas pelo físico e matemáti
 
 ![thumbmail](https://github.com/user-attachments/assets/7f63de06-2ba2-4b4c-9fcd-33365542f189)
 
-##Curiosidades sobre ondas eletromagnéticas
+# Curiosidades sobre ondas eletromagnéticas
 
-_*Ondas de rádio*_: são largamente utilizadas nas telecomunicações. O sinal de rádio, televisão e celular encontra-se nessa faixa de frequência;
+### Ondas de rádio: 
+são largamente utilizadas nas telecomunicações. O sinal de rádio, televisão e celular encontra-se nessa faixa de frequência;
 
 Micro-ondas: também são muito utilizadas nas telecomunicações. Os roteadores de internet sem fio, popularmente conhecidos como Wi-fi, utilizam micro-ondas de frequências que variam entre 2,4 GHz e 5,8 GHz;
 
