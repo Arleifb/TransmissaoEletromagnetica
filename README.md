@@ -33,7 +33,9 @@ chegam à Terra em pouca quantidade devido à presença da atmosfera terrestre. 
 ### Raios gama:
 são produzidos por reações nucleares, nas quais os níveis de energia do núcleo dos átomos sofrem variações. Essas ondas são extremamente energéticas e apresentam alto poder de penetração. Os raios gama são usados para estudos astronômicos e para a indução de reações nucleares. Podem causar excitações nucleares, levando à sua dissociação, mas também podem gerar pares de matéria e antimatéria, causando a aniquilação mútua dessas partículas.
 
-[Aulão sobre transmissão de ondas eletromagnéticas:] (https://youtu.be/mKi0Cancs3E?si=zRArlXfa26y5_lPw)
+###Assista a vídeo aula no link
+
+[Vídeo aula no youtube com capítulos nos tempos do vídeo  descrito abaixo ⏱️](https://youtu.be/mKi0Cancs3E?si=zRArlXfa26y5_lPw)
 
 
 
